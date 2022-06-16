@@ -1,0 +1,7 @@
+echo "# summer-internship-Akash-Technolabs" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/slayerdhruv/summer-internship-Akash-Technolabs.git
+git push -u origin main
